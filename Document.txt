@@ -1,3 +1,12 @@
 Hi
 
 We are creating FlightBooking application
+
+Getting file from github
+1)git clone github path
+2)git pull
+
+push the code into github
+1)git add .
+2)git commit -m 'comment'
+3)git push
