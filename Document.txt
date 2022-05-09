@@ -13,6 +13,8 @@ push the code into github
 
 C:\Users\cogdotnet15\source\repos
 
+C:\Users\balu\Desktop\Kafka-bin\bin\windows
+
 .\zookeeper-server-start.bat C:\Users\balu\Desktop\Kafka-bin\config\zookeeper.properties
 
 kafka-server-start.bat C:\Users\balu\Desktop\Kafka-bin\config\server.properties
