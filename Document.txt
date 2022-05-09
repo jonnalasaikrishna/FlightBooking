@@ -12,3 +12,11 @@ push the code into github
 3)git push
 
 C:\Users\cogdotnet15\source\repos
+
+.\zookeeper-server-start.bat C:\Users\balu\Desktop\Kafka-bin\config\zookeeper.properties
+
+kafka-server-start.bat C:\Users\balu\Desktop\Kafka-bin\config\server.properties
+
+kafka-topics.bat --crete --bootstrap-server 127.0.0.1:9092 --replication-factor 1 --partitions 1 --topic temp-topic
+
+kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic temp-topic
