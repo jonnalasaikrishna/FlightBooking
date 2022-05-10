@@ -1,6 +1,6 @@
 Hi
 
-Scaffold-DbContext "Server=.\SQLEXPRESS;Database=EcommerceDbs;Trusted_connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+Scaffold-DbContext "Server=DESKTOP-3CD0IKJ\STATIC_ADO;Database=EcommerceDbs;Trusted_connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 
 We are creating FlightBooking application
 
