@@ -1,5 +1,7 @@
 Hi
 
+Scaffold-DbContext "Server=.\SQLEXPRESS;Database=EcommerceDbs;Trusted_connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
 We are creating FlightBooking application
 
 Getting file from github
