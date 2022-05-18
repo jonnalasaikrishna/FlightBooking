@@ -24,3 +24,11 @@ kafka-server-start.bat C:\Users\balu\Desktop\Kafka-bin\config\server.properties
 kafka-topics.bat --crete --bootstrap-server 127.0.0.1:9092 --replication-factor 1 --partitions 1 --topic temp-topic
 
 kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic temp-topic
+
+
+
+Bala VeeraSaiKrishnaJonnala -	balaveera.sai@mml.local
+AG_iJtxM	https://iihtedu.cloud.builder.ai/
+Azure	bc_wallet_220502_jf7indnxa5@BuilderCloudProvisioning.onmicrosoft.com
+uhO1eT3F!	https://portal.azure.com
+
