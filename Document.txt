@@ -32,3 +32,6 @@ AG_iJtxM	https://iihtedu.cloud.builder.ai/
 Azure	bc_wallet_220502_jf7indnxa5@BuilderCloudProvisioning.onmicrosoft.com
 uhO1eT3F!	https://portal.azure.com
 
+
+Scaffold-DbContext "Server=saikrishna-airlinedb.database.windows.net;Database=AirlineDB; User ID=SaiKrishna-DB;Password=Anhsirk@1818" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
